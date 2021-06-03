@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **swayampradhan24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11MmC2MHCUwxqZRywJmI9Ol80aKHOz_gq/view?usp=sharing](https://drive.google.com/file/d/11MmC2MHCUwxqZRywJmI9Ol80aKHOz_gq/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/11MmC2MHCUwxqZRywJmI9Ol80aKHOz_gq/view?usp=sharing)
 
 - ⚡ Fun fact **If you good at something, never do it free for others**
 
