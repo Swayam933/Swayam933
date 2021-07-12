@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chandan Kumar Pradhan</h1>
+<h1 align="center">Hi👋🏻, I'm Chandan Kumar Pradhan</h1>
 <h3 align="center">A passionate Learner and Focusing, Exploring Tech</h3>
 <a href="https://dev.to/swayam933">
   <i class="fab fa-dev" title="swayam933's DEV Community Profile"></i>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **swayampradhan24@gmail.com**
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/11MmC2MHCUwxqZRywJmI9Ol80aKHOz_gq/view?usp=sharing)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/1yqQRqgsf04g3IoL_jP0pTXuCZwosefdF/view?usp=sharing)
 
 - ⚡ Fun fact **If you good at something, never do it free for others**
 
