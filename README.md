@@ -1,35 +1,120 @@
-<h1 align="center">Hi👋🏻, I'm Chandan Kumar Pradhan</h1>
-<h3 align="center">A passionate Learner and Focusing, Exploring Tech</h3>
-<a href="https://dev.to/swayam933">
-  <i class="fab fa-dev" title="swayam933's DEV Community Profile"></i>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c9a7&height=200&section=header&text=Chandan%20Kumar%20Pradhan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Linux%20%7C%20CyberOps&descSize=16&descAlignY=60" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Building+scalable+Full+Stack+applications;Automating+delivery+with+CI%2FCD+%26+DevOps;Deploying+and+scaling+on+the+Cloud;Living+in+the+Linux+terminal;Securing+systems+with+a+CyberOps+mindset" alt="Typing SVG" />
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swayam933&label=Profile%20views&color=0e75b6&style=flat" alt="swayam933" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayam933" alt="swayam933" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=swayam933&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/swayam933?label=Followers&style=flat-square&color=00c9a7)
+![Stars](https://img.shields.io/github/stars/swayam933?label=Stars&style=flat-square&color=0e75b6)
 
-- 🌱 I’m currently learning **Cloud Computing, Machine Learning, Deep Learning, NLP, Cyber Security**
+</div>
 
-- 📫 How to reach me **swayampradhan24@gmail.com**
+---
 
-- 📄 Know about [my experiences](https://drive.google.com/file/d/1yqQRqgsf04g3IoL_jP0pTXuCZwosefdF/view?usp=sharing)
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **If you good at something, never do it free for others**
+I'm a **Full Stack Software Developer** with a strong interest in **DevOps, Cloud Computing, Linux and Cyber Operations**. I enjoy building end-to-end applications, automating the path from commit to production, and understanding how systems work (and how to secure them) under the hood.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/swayam933" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/swayam933" height="30" width="40" /></a>
-<a href="https://twitter.com/swayampradhan24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="swayampradhan24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandan-kumar-pradhan-0788361a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/chandan-kumar-pradhan-0788361a0/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15091001/chandan-kumar-pradhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/15091001/chandan-kumar-pradhan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/swayam.562" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/swayam.562" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/battle_boy_swayam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/battle_boy_swayam/" height="30" width="40" /></a>
-<a href="https://medium.com/@swayampradhan24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@swayampradhan24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/swayampradhan24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/swayampradhan24" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/swayampradhan24/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://auth.geeksforgeeks.org/user/swayampradhan24/profile" height="30" width="40" /></a>
+- 🔭 **Focus areas:** Full Stack SDE · DevOps · Cloud · Linux · CyberOps
+- 🌱 **Currently learning:** Kubernetes, Infrastructure as Code, Cloud security & SOC fundamentals
+- 🤝 **Open to:** Collaborations, open-source contributions, internships and full-time SDE / DevOps roles
+- 📄 **Experience:** [View my resume](https://drive.google.com/file/d/1qGXpf79I_2idCjkWvo0jJjpkeHqTBzy1/view?usp=sharing)
+- 📫 **Reach me:** [swayampradhan24@gmail.com](mailto:swayampradhan24@gmail.com)
+- ⚡ **Fun fact:** *If you're good at something, never do it for free for others.*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Full Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,html,css,bootstrap,tailwind&perline=11" alt="Full stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### ⚙️ DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,terraform,ansible,nginx,prometheus,grafana&perline=11" alt="DevOps" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayam933&show_icons=true&locale=en&layout=compact" alt="swayam933" /></p>
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel&perline=11" alt="Cloud" />
+</p>
+
+### 🐧 Linux & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,py,c,cpp&perline=11" alt="Linux" />
+</p>
+
+### 🔐 CyberOps & Security
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=11" alt="Databases" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=swayam933&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam933&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swayam933&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swayam933&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=swayam933&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandan-kumar-pradhan-0788361a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/swayampradhan24"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://dev.to/swayam933"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" /></a>
+  <a href="https://medium.com/@swayampradhan24"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://stackoverflow.com/users/15091001/chandan-kumar-pradhan"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://www.hackerrank.com/swayampradhan24"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/swayampradhan24/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.instagram.com/ops.with.swayam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/swayam.562"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:swayampradhan24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<div align="center">
+
+*⭐ If you like my work, consider giving a star to my repositories!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0e75b6&height=100&section=footer" alt="footer" />
+
+</div>
